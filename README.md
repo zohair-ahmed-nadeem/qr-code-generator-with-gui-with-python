@@ -1,0 +1,1 @@
+# qr-code-generator-with-gui-with-python
