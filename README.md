@@ -16,6 +16,7 @@ A simple and beginner-friendly Python GUI application that generates QR codes fr
 
 > A minimal and clean interface for quick QR code generation.
 
+![gui](https://media.discordapp.net/attachments/1265694796308283515/1362914929170059534/image.png?ex=680420f0&is=6802cf70&hm=b1d1401278372b8b6a4a8d341619c08a40e498b78bc6f3092a5cdd3b11adf78b&=&format=webp&quality=lossless&width=322&height=426)
 ---
 
 ## 🚀 How to Use
